@@ -62,8 +62,6 @@ https://youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz
   >   - *a. love.graphics.setDefaultFilter(min, mag)* : sets the texture scaling filter when minimizing and magnifying textures and gonts (default is bilinear, using "Nearest Neighbor" aka "Point" or "nearest")
   >   - *b. love.keypressed(key)* : callback function that executes whenever a key is pressed
   >   - *c. love.event.quit()*    : terminates the application
-  >   - *d. 
-  >   - *e. 
 
 11. Texture Filtering
 12. The Rectangle Update
